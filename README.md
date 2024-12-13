@@ -15,7 +15,7 @@ Command-line interface for project management and question answering.
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/LLM-PDF-Question-Answering-Tool.git  
+git clone https://github.com/arunkum54/Multi-Project-PDF--LLM-PDF-Question-Answering-Tool.git  
 cd LLM-PDF-Question-Answering-Tool 
 
 Install dependencies:
