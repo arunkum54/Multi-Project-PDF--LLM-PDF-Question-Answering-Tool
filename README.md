@@ -50,4 +50,4 @@ torch (for GPU support)
 
 Author
 Arun Kumar Rana
-linkedin.com/in/arun738267/
+[linkedin.com/in/arun738267/](https://www.linkedin.com/in/arun738267/)
